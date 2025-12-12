@@ -1,4 +1,3 @@
-import React from "react";
 import Card from "../components/Card";
 import coding from "../assets/coding-pov.png";
 import { useRef } from "react";
